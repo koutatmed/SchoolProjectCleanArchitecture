@@ -27,7 +27,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
+//ijuiujuj
 //Connection To SQL Server
 builder.Services.AddDbContext<ApplicationDBContext>(option =>
 {
